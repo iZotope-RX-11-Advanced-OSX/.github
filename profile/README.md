@@ -1,7 +1,7 @@
 # iZotope RX 11 Advanced Mac
 
 <p align="center">
-  <img src="https://www.izotope.com/storage-cms/images/2/8/3/9/1039382-1-eng-GB/99ff72469af7-RX11-logos_icon-circle.png" width="200" alt="iZotope RX 11 Advanced icon"/>
+  <img src="https://www.pluginboutique.com/ckeditor_assets/pictures/38209/original_RX11-logos_logo-circle-izo-blk.png" width="200" alt="iZotope RX 11 Advanced icon"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.native-instruments.com/fileadmin/ni_media/productfinder/Packshots2024/Izotope-RX-11-Advanced-product-finder.png" alt="iZotope RX 11 Advanced screenshot"/>
+  <img src="https://media.sweetwater.com/m/products/image/6c0c921ab6rYOPmlsqbhVchSmhihV52Cd0UcNuLg.png" alt="iZotope RX 11 Advanced screenshot"/>
 </p>
 
 ---
